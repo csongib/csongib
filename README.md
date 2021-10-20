@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @csongib
+- 👀 I’m interested in Payday 2 coding
+- 🌱 I’m currently learning in a Primary School
